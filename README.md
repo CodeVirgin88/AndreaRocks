@@ -1,5 +1,18 @@
 # Andrea Kobrlova
 
+some information about myself
+
+this is *important*
+# Todo
+
+- [ ] Header
+- [ ] Contact Info
+- [ ] Skills
+- [ ] Experience
+- [ ] Portfolio
+
+# Andrea Kobrlova
+
 ---
 
 ### **Contact**
@@ -21,8 +34,8 @@
 ### **Experience**
 
 2017 - current
-:   **Executive Assistant** at [Blockchain Hub Prague](blockchainhubprague.com)
-:   *Prague, Czech Republic*
+:   **Executive Assistant** at [Blockchain Hub Prague](http://www.blockchainhubprague.com)
+*Prague, Czech Republic*
 
 >   Blockchain Hub Prague is a business incubator for new startups. We all share a stimulating office space where we collaborate, sharing knowledge and resources.
 
