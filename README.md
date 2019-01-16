@@ -1,18 +1,5 @@
 # Andrea Kobrlova
 
-some information about myself
-
-this is *important*
-# Todo
-
-- [ ] Header
-- [ ] Contact Info
-- [ ] Skills
-- [ ] Experience
-- [ ] Portfolio
-
-# Andrea Kobrlova
-
 ---
 
 ### **Contact**
